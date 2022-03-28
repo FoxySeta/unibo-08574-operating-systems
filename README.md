@@ -4,7 +4,7 @@ Exercises for the University of Bologna Operating Systems course (a.y. 2021-22).
 ## Docker
 Pull the image from the registry:
 ```bash
-$ docker pull ghcr.io/foxyseta/unibo-93315-reti-di-calcolatori:latest
+$ docker pull ghcr.io/foxyseta/unibo-93315-reti-di-calcolatori:main
 ```
 Assuming you are using X on your host machine, use the following command to run
 a new instance of the shell in a new container named `$NAME`:
