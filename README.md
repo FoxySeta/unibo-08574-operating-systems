@@ -1,4 +1,4 @@
-# unibo-08574-sistemi-operativi
+# unibo-08574-operating-systems
 Exercises for the University of Bologna Operating Systems course (a.y. 2021-22).
 
 ## Docker
